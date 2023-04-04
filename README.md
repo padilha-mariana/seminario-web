@@ -1,2 +1,2 @@
 # seminario-web
-Repositório para fins educacionais em forma de trabalho estaremos desenvolvendo um formulário
+Repositório para fins educacionais em forma de trabalho estaremos desenvolvendo um formulário de contato.
